@@ -65,9 +65,7 @@ function newCard() {
         cards.push(card)
         console.log(cards)
         renderGame()
-    }
-
-    
+    }  
 }
 
 
